@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YgorFernandesM
+- 👀 I’m interested in learning!!
+- 🌱 I'm currently learning about algorithms and programming logic, and I'm already starting my development in SQL language
+- 📫 I am currently in São Paulo / Brazil
